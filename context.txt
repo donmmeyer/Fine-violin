@@ -1,0 +1,76 @@
+Fein Violins information:
+Fein Violins website is fineviolins.com.
+Fein Violins is the premier of violin makers in the Minneapolis/St. Paul area.
+Fein Violins is Address is 1850 Grand Ave, St. Paul, MN 55105.
+For Fein Violins, call 651-228-0783 or Text 651-373-1300
+Fein Violins sells violins, violas, cellos and bows.
+Fein Violins rents instruments.
+The staff at Fein Violins consists of professional stringed instrument players and teachers. 
+Andy Fein has over 45 years of experience.
+How are Fein violins and violas made?  All handcrafted violins start with years of study of Antonius Stradivarius' instruments. 
+Every handmade violin that we offer has been cut from aged, high altitude Spruce for the top, and rare, high altitude Maple for the back, sides, and neck. 
+The fingerboard is cut from premium quality black ebony. 
+We make sure the pegs, chin rest, and tailpiece match the beauty of the violin with fine quality fittings. 
+We have Pernambuco violin bows, viola bows, and cello bows, as well as some fine carbon bows.
+
+Customer preference:
+A customer with unspecified demographics - prefers the Grand violin at 17% and a good choice is the Allegro violin at 17%.
+A customer who plays as a hobby - prefers the Grand violin at 17% and a good choice is the Sonata violin at 17%.
+A customer who is a student - prefers the Allegro violin at 20% and a good choice is the Sonata violin at 19%.
+A customer who plays professionally - prefers the Allegro violin at 14% and a good choice is the Sonata violin at 11%.
+A customer who is 39 years old or younger - prefers the Allegro violin at 20% and a good choice is the Grand violin at 17%.
+A customer who is 39 years old or younger and who plays as a hobby - prefers the Grand violin at 17% and a good choice is the Allegro violin at 15%.
+A customer who is 39 years old or younger and who is a student - prefers the Allegro violin at 23% and a good choice is the Grand violin at 20%.
+A customer who is 39 years old or younger and who plays professionally - prefers the Allegro violin at 17% and a good choice is the Sonata violin at 11%.
+A customer who is 40 years or older - prefers the Sonata violin at 19% and a good choice is the Grand violin at 16%.
+A customer who is 40 years or older and who plays as a hobby - prefers the Sonata violin at 20% and a good choice is the Grand violin at 17%.
+A customer who is 40 years or older and who is a student - prefers the Sonata violin at 19% and a good choice is the Allegro violin at 17%.
+A customer who is 40 years or older and who plays professionally - prefers the Sonata violin at 15% and a good choice is the Grand violin at 3%.
+A customer who plays less than once a day - prefers the Grand violin at 23% and a good choice is the Allegro violin at 21%.
+A customer who plays less than once a day and who plays as a hobby - prefers the Grand violin at 24% and a good choice is the Allegro violin at 21%.
+A customer who plays less than once a day and who is a student - prefers the Grand violin at 23% and a good choice is the Sonata violin at 19%.
+A customer who plays less than once a day and who plays professionally - prefers the Allegro violin at 18% and a good choice is the Sonata violin at 14%.
+A customer who plays less than once a day and who is 39 years old or younger - prefers the Grand violin at 31% and a good choice is the Allegro violin at 24%.
+A customer who plays less than once a day and who is 40 years or older - prefers the Grand violin at 21% and a good choice is the Allegro violin at 20%.
+A customer who plays once a day or more - prefers the Sonata violin at 20% and a good choice is the Allegro violin at 14%.
+A customer who plays once a day or more and who plays as a hobby - prefers the Sonata violin at 20% and a good choice is the Allegro violin at 12%.
+A customer who plays once a day or more and who is a student - prefers the Sonata violin at 21% and a good choice is the Allegro violin at 21%.
+A customer who plays once a day or more and who plays professionally - prefers the Allegro violin at 20% and a good choice is the Sonata violin at 15%.
+A customer who plays once a day or more and who is 39 years old or younger - prefers the Allegro violin at 20% and a good choice is the Grand violin at 11%.
+A customer who plays once a day or more and who is 40 years or older - prefers the Sonata violin at 29% and a good choice is the Grand violin at 8%.
+A customer without a college degree - prefers the Allegro violin at 20% and a good choice is the Grand violin at 17%.
+A customer without a college degree and who plays as a hobby - prefers the Grand violin at 17% and a good choice is the Allegro violin at 15%.
+A customer without a college degree and who is a student - prefers the Allegro violin at 23% and a good choice is the Grand violin at 20%.
+A customer without a college degree and who plays professionally - prefers the Allegro violin at 17% and a good choice is the Sonata violin at 11%.
+A customer without a college degree and who is 39 years old or younger - prefers the Allegro violin at 20% and a good choice is the Grand violin at 17%.
+A customer without a college degree and who is 40 years or older - prefers the Allegro violin at 17% and a good choice is the Grand violin at 17%.
+A customer without a college degree and who plays less than once a day - prefers the Grand violin at 31% and a good choice is the Allegro violin at 24%.
+A customer without a college degree and who plays once a day or more - prefers the Allegro violin at 20% and a good choice is the Grand violin at 11%.
+A customer with a college degree - prefers the Sonata violin at 19% and a good choice is the Grand violin at 16%.
+A customer with a college degree and who plays as a hobby - prefers the Sonata violin at 20% and a good choice is the Grand violin at 17%.
+A customer with a college degree and who is a student - prefers the Sonata violin at 19% and a good choice is the Allegro violin at 17%.
+A customer with a college degree and who plays professionally - prefers the Sonata violin at 15% and a good choice is the Grand violin at 3%.
+A customer with a college degree and who is 39 years old or younger - prefers the Allegro violin at 17% and a good choice is the Grand violin at 17%.
+A customer with a college degree and who is 40 years or older - prefers the Sonata violin at 19% and a good choice is the Grand violin at 16%.
+A customer with a college degree and who plays less than once a day - prefers the Grand violin at 21% and a good choice is the Allegro violin at 20%.
+A customer with a college degree and who plays once a day or more - prefers the Sonata violin at 29% and a good choice is the Grand violin at 8%.
+A customer who is Female - prefers the Allegro violin at 20% and a good choice is the Grand violin at 19%.
+A customer who is Female and who plays as a hobby - prefers the Allegro violin at 18% and a good choice is the Sonata violin at 18%.
+A customer who is Female and who is a student - prefers the Allegro violin at 26% and a good choice is the Grand violin at 23%.
+A customer who is Female and who plays professionally - prefers the Allegro violin at 22% and a good choice is the Grand violin at 3%.
+A customer who is Female and who is 39 years old or younger - prefers the Allegro violin at 24% and a good choice is the Grand violin at 16%.
+A customer who is Female and who is 40 years or older - prefers the Grand violin at 20% and a good choice is the Sonata violin at 17%.
+A customer who is Female and who plays less than once a day - prefers the Grand violin at 24% and a good choice is the Allegro violin at 22%.
+A customer who is Female and who plays once a day or more - prefers the Allegro violin at 19% and a good choice is the Sonata violin at 17%.
+A customer who is Female and without a college degree - prefers the Allegro violin at 24% and a good choice is the Grand violin at 16%.
+A customer who is Female and with a college degree - prefers the Grand violin at 20% and a good choice is the Sonata violin at 17%.
+A customer who is Male - prefers the Sonata violin at 17% and a good choice is the Grand violin at 14%.
+A customer who is Male and who plays as a hobby - prefers the Grand violin at 16% and a good choice is the Sonata violin at 15%.
+A customer who is Male and who is a student - prefers the Sonata violin at 18% and a good choice is the Allegro violin at 9%.
+A customer who is Male and who plays professionally - prefers the Sonata violin at 14% and a good choice is the Allegro violin at 13%.
+A customer who is Male and who is 39 years old or younger - prefers the Grand violin at 18% and a good choice is the Allegro violin at 14%.
+A customer who is Male and who is 40 years or older - prefers the Sonata violin at 21% and a good choice is the Allegro violin at 11%.
+A customer who is Male and who plays less than once a day - prefers the Grand violin at 22% and a good choice is the Allegro violin at 17%.
+A customer who is Male and who plays once a day or more - prefers the Sonata violin at 23% and a good choice is the Allegro violin at 9%.
+A customer who is Male and without a college degree - prefers the Grand violin at 18% and a good choice is the Allegro violin at 14%.
+A customer who is Male and with a college degree - prefers the Sonata violin at 21% and a good choice is the Allegro violin at 11%.

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ask about Fein Violins</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f5e8d0; /* Light tan color */
+            padding-top: 100px; /* Moves content further down */
+            margin: 0;
+        }
+        img {
+            max-width: 300px;
+            margin-bottom: 30px;
+        }
+        form {
+            margin-top: 30px;
+        }
+        textarea {
+            margin-top: 20px;
+            padding: 10px;
+            width: 80%;
+            max-width: 500px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+        }
+        button {
+            margin-top: 20px;
+            padding: 10px 20px;
+            background-color: #8c7b6b; /* Button color to match the theme */
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #705d4b; /* Darker shade on hover */
+        }
+        h2 {
+            margin-bottom: 40px;
+        }
+        .response {
+            margin-top: 50px;
+        }
+    </style>
+</head>
+<body>
+    <h2>Ask a Question about Fein Violins or the Preferences of Violin Customers</h2>
+    <h4>Example:  Which violin does someone who plays every day prefer?  Which violin does a 18 year-old male prefer?</h4>
+    <img src="{{ url_for('static', filename='Feinlogo.png') }}" alt="Fein Violins Logo">
+
+    <form method="POST">
+        <textarea name="question" rows="4" cols="50" placeholder="Type your question here..."></textarea><br>
+        <button type="submit">Ask</button>
+    </form>
+
+    {% if response %}
+    <div class="response">
+        <h3>Response:</h3>
+        <p>{{ response }}</p>
+    </div>
+    {% endif %}
+</body>
+</html>
