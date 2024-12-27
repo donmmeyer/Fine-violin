@@ -1,67 +1,44 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ask about Fein Violins</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            background-color: #f5e8d0; /* Light tan color */
-            padding-top: 100px; /* Moves content further down */
-            margin: 0;
-        }
-        img {
-            max-width: 300px;
-            margin-bottom: 30px;
-        }
-        form {
-            margin-top: 30px;
-        }
-        textarea {
-            margin-top: 20px;
-            padding: 10px;
-            width: 80%;
-            max-width: 500px;
-            border-radius: 5px;
-            border: 1px solid #ccc;
-        }
-        button {
-            margin-top: 20px;
-            padding: 10px 20px;
-            background-color: #8c7b6b; /* Button color to match the theme */
-            color: white;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-        }
-        button:hover {
-            background-color: #705d4b; /* Darker shade on hover */
-        }
-        h2 {
-            margin-bottom: 40px;
-        }
-        .response {
-            margin-top: 50px;
-        }
-    </style>
-</head>
-<body>
-    <h2>Ask a Question about Fein Violins or the Preferences of Violin Customers</h2>
-    <h4>Example:  Which violin does someone who plays every day prefer?  Which violin does a 18 year-old male prefer?</h4>
-    <img src="{{ url_for('static', filename='Feinlogo.png') }}" alt="Fein Violins Logo">
+<html>
+    <head>
+        <title>Fein Violins Chatbot</title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <link rel="stylesheet" href="/static/main.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+        <script src="/static/script.js"></script>
+    </head>
+    <body>
+        <div id="banner"></div>
+        <div class="container text-center" style="margin-top: 32px;">
+            <!-- Titles -->
+            <!-- Image (Placeholder for the banner or other content) -->
+            <img src="/static/Feinlogo.png" alt="Violin Banner" class="img-fluid" style="margin-top: 16px;">
 
-    <form method="POST">
-        <textarea name="question" rows="4" cols="50" placeholder="Type your question here..."></textarea><br>
-        <button type="submit">Ask</button>
-    </form>
+            <h1 style="font-size: 24px; color: black;">Ask a Question about Fein Violins or the Preferences of Violin Customers</h1>
+            <h3 style="font-size: 16px; color: black;">Example: Which violin does someone who plays every day prefer? Which violin does an 18-year-old male prefer?</h3>
 
-    {% if response %}
-    <div class="response">
-        <h3>Response:</h3>
-        <p>{{ response }}</p>
-    </div>
-    {% endif %}
-</body>
+
+            <!-- Input Form -->
+            <div class="row" style="margin-top: 32px;">
+                <div class="col-sm-3"></div>
+                <div class="col-sm-6 text-center">
+                    <form method="get">
+                        <div class="input-group">
+                            <input type="text" id="question" class="form-control" placeholder="Ask me a question about Fein Violins or String Music" name="query">
+                            <div class="input-group-append">
+                                <button type="submit" id="answer-button" class="btn btn-primary">
+                                    <i class="fa fa-question"></i>
+                                </button>
+                            </div>
+                        </div>
+                    </form>
+                    <p class="text-left" id="answer"></p>
+                </div>
+                <div class="col-sm-3"></div>
+            </div>
+        </div>
+    </body>
 </html>
+
